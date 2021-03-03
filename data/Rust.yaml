@@ -1,0 +1,8 @@
+short_name: Rust
+categories:
+ - Languages
+facets:
+ - axis: Adoption Policy
+   value : Hold
+   movement : -1
+   link : https://engineering.zalando.com/tags/rust.html

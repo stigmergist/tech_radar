@@ -1,0 +1,8 @@
+short_name: GraphQL
+categories:
+ - Languages
+facets:
+ - axis: Adoption Policy
+   value : Trial
+   movement : 1
+   link : https://engineering.zalando.com/tags/graphql.html

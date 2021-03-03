@@ -1,0 +1,8 @@
+short_name: STUPS
+categories:
+ - Infrastructure
+facets:
+ - axis: Adoption Policy
+   value : Hold
+   movement : -1
+   link : https://engineering.zalando.com/tags/stups.html

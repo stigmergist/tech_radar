@@ -1,0 +1,8 @@
+short_name: Clojure
+categories:
+ - Languages
+facets:
+ - axis: Adoption Policy
+   value : Hold
+   movement : -1
+   link : https://engineering.zalando.com/tags/clojure.html

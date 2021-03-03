@@ -1,0 +1,8 @@
+short_name: RabbitMQ
+categories:
+ - Data Management
+facets:
+ - axis: Adoption Policy
+   value : Trial
+   movement : 0
+   link : https://engineering.zalando.com/tags/rabbitmq.html

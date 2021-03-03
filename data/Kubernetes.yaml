@@ -1,0 +1,8 @@
+short_name: Kubernetes
+categories:
+ - Infrastructure
+facets:
+ - axis: Adoption Policy
+   value : Adopt
+   movement : 0
+   link : https://engineering.zalando.com/tags/kubernetes.html

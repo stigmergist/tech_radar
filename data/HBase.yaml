@@ -1,0 +1,7 @@
+short_name: HBase
+categories:
+ - Data Management
+facets:
+ - axis: Adoption Policy
+   value : Hold
+   movement : 0

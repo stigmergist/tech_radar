@@ -1,0 +1,7 @@
+short_name: TensorFlow
+categories:
+ - Frameworks
+facets:
+ - axis: Adoption Policy
+   value : Trial
+   movement : 0

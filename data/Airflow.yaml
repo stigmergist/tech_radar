@@ -1,0 +1,7 @@
+short_name: Airflow
+categories:
+ - Data Management
+facets:
+ - axis: Adoption Policy
+   value : Trial
+   movement : 0

@@ -1,0 +1,7 @@
+short_name: Google Bigtable
+categories:
+ - Data Management
+facets:
+ - axis: Adoption Policy
+   value : Assess
+   movement : 0

@@ -1,0 +1,7 @@
+short_name: AWS Lambda
+categories:
+ - Infrastructure
+facets:
+ - axis: Adoption Policy
+   value : Assess
+   movement : 0

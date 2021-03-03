@@ -1,0 +1,7 @@
+short_name: Hystrix
+categories:
+ - Infrastructure
+facets:
+ - axis: Adoption Policy
+   value : Adopt
+   movement : 0
